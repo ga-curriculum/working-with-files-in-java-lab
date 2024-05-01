@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Exercise](./assets/hero.png)
+# ![[tktk Module Name] - Exercise](./assets/file-reading-and-writing-exercise.png)
 
 ## Lab: File Reading and Writing (45 min)
 
