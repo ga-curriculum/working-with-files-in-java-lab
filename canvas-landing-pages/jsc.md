@@ -4,9 +4,6 @@
 
 Develop a Java appalication that manages file input and output operations using `BufferReader`, `BufferedWriter`, and `Scanner`. 
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **45 min**
 
 ## Starter code
 
