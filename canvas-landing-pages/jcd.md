@@ -1,9 +1,11 @@
-# ![[tktk Module Name]](../assets/file-reading-and-writing-lab.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Working with Files in Java Lab</span>
+</h1>
 
 ## About
 
 Develop a Java application that manages file input and output operations using `BufferReader`, `BufferedWriter`, and `Scanner`. 
-
 
 ## Starter code
 
