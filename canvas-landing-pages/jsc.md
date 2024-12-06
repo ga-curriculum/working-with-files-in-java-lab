@@ -5,7 +5,7 @@
 
 ## About
 
-Develop a Java application that manages file input and output operations using `BufferReader`, `BufferedWriter`, and `Scanner`. 
+In this lab, you'll develop a Java application that manages file input and output operations using `BufferReader`, `BufferedWriter`, and `Scanner`.
 
 ## Starter code
 

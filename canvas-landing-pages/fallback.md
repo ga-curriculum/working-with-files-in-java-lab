@@ -4,19 +4,11 @@
   <span class="headline">Working with Files in Java Lab</span>
 </h1>
 
-tktk This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
-
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, you'll develop a Java application that manages file input and output operations using `BufferReader`, `BufferedWriter`, and `Scanner`.
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
