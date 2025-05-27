@@ -49,7 +49,7 @@ git push origin main
 ```
 
 <blockquote class="warning">
-  🚨 Do not copy the above command. It will not work. Your GitHub username will replace <code>&lt;github-username&gt;</code> (including the <code><</code> and <code>></code>) in the URL above.
+  🚨 Do not copy the above command. It will not work. Your GitHub username will replace <code>&lt;github-username&gt;</code> (including the <code>&lt;</code> and <code>&gt;</code>) in the URL above.
 </blockquote>
 
 Open IntelliJ IDEA Community Edition and open the project by selecting the **Open** option on the launch screen.
