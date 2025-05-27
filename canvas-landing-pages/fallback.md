@@ -10,5 +10,5 @@ In this lab, you'll develop a Java application that manages file input and outpu
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup](../setup/README.md)
+- [Exercise](../exercise/README.md)
