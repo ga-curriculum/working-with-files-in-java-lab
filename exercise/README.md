@@ -3,9 +3,9 @@
   <span class="subhead">Exercise</span>
 </h1>
 
-## Exercise (45 min)
+## Exercise
 
-In this lab, you will build a superhero quiz application. The starter code has some parts of this app that are already completed for you.
+In this lab, you will build a superhero quiz application. The starter code has some parts of this app already completed for you.
 
 ### Review current code
 
@@ -26,7 +26,7 @@ You must ask at least three questions in the quiz. You can create any questions 
 
 Replacing X with the appropriate values held in the `superheroes` ArrayList.
 
-Keep track of the number of right and wrong answers provided by a user.
+Keep track of the number of right and wrong answers a user provides.
 
 It should not matter what casing a user provides their answer in. For example, `Batman`, `batman`, and `BaTmAn` should all be acceptable answers to the question, "What superhero was born in Gotham City?".
 
@@ -34,7 +34,7 @@ It should not matter what casing a user provides their answer in. For example, `
 
 ### Write the results to an <code class="filepath">output.txt</code> file
 
-If the number of right answers is greater than the wrong ones, declare the user a winner and write the result of the quiz in an `output.txt` file.
+If the number of right answers exceeds the wrong ones, declare the user a winner and write the quiz result in an <code class="filepath">output.txt</code> file.
 
 Include these details for each question:
 
