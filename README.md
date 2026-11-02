@@ -24,11 +24,11 @@ Estimated time to complete core lab exercise: **45 min**
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/working-with-files-in-java-lab-starter)
+🟢 [Starter code](https://github.com/ga-curriculum/working-with-files-in-java-lab-starter)
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/working-with-files-in-java-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/working-with-files-in-java-lab-solution)
 
 ### Course landing pages
 
