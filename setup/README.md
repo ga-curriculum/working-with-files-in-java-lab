@@ -11,10 +11,10 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/labs
 ```
 
-Clone the [Working with Files in Java Lab starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/working-with-files-in-java-lab-starter) repository with this command:
+Clone the [Working with Files in Java Lab starter code](https://github.com/ga-curriculum/working-with-files-in-java-lab-starter) repository with this command:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/working-with-files-in-java-lab-starter.git working-with-files-in-java-lab
+git clone https://github.com/ga-curriculum/working-with-files-in-java-lab-starter.git working-with-files-in-java-lab
 ```
 
 > 💡 The `working-with-files-in-java-lab` at the end of this command will place the contents of the `working-with-files-in-java-lab-starter` repo into a directory named <code class="filepath">working-with-files-in-java-lab</code>.
